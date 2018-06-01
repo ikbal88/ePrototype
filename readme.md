@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+## About ePrototype
+
+eProtoype dikembangkan untuk kebutuhan industri pabrik / manufacturing. Mulai dari proses pembelian bahan baku, produksi, hingga warehouse / gudang stock. Dibangun oleh CV. Azhtech Transformasi Insani. Lisensi dapat dimiliki melalui 0852 2069 6117. Dapat digunakan untuk Personal atau Perusahaan.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
